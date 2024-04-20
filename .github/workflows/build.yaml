@@ -21,6 +21,8 @@ jobs:
         id: buildx
 
       - name: Build and Push Docker Image
+
+      
         with:
           context: ./
           file: ./Dockerfile
