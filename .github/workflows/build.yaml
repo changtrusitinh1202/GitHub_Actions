@@ -1,4 +1,4 @@
-name: phgh-hello-world
+name: hello-world
 on:
   push:
     branches: [master]
